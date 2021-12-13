@@ -1,0 +1,8 @@
+C:\Users\carli\source\repos\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.AssemblyInfo.cs
+C:\Users\carli\source\repos\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carli\source\repos\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.RazorAssemblyInfo.cache
+C:\Users\carli\source\repos\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.RazorAssemblyInfo.cs
